@@ -6,14 +6,25 @@ Care Companion *(provisional — final name not yet confirmed)*
 ## Product Purpose
 A personal care coordination app for people managing complex, multi-domain healthcare and mobility needs. It organises the full ecosystem of medical providers, appointments, referrals, prescriptions, pharmacies, mobility equipment, and accessible transportation into a single supportive hub — proactively keeping the user one step ahead of what needs attention.
 
-## Primary User
+## User Personas
+
+### Persona 1 — The Person in Care
 A person living with a disability or complex chronic health condition who:
 - Sees multiple specialist doctors and has frequent, changeable appointments
 - Manages active referrals between providers
 - Has ongoing prescriptions across multiple pharmacies
-- Uses a powered wheelchair or mobility device (requiring maintenance, supplied by specialist companies)
-- Relies on an accessible van for transportation (requiring regular servicing and upkeep)
-- Carries a significant cognitive and logistical load managing all of the above, largely independently
+- Uses a powered wheelchair or mobility device (requiring constant maintenance and repairs, supplied by specialist companies)
+- Relies on an accessible van for transportation (requiring regular and ongoing servicing, repairs, and upkeep)
+- Carries a significant cognitive and logistical load managing all of the above
+- Needs the full picture: all upcoming appointments, active referrals, prescription status, equipment and vehicle health
+
+### Persona 2 — The Assistant / Driver
+A support person (personal care assistant, driver, or carer) who:
+- Drives the accessible van and manages day-to-day logistics
+- Needs to know what's on today and what's coming up next
+- Handles fuel fill-ups and van maintenance/repair jobs
+- Collects and submits fuel and maintenance receipts (for tax deduction purposes)
+- Needs a task-focused view: not the full care picture, but clear action items and upcoming runs
 
 ## Core Problem
 Managing complex medical and mobility needs spans dozens of providers, companies, and deadlines. Appointments change frequently and without warning. Referrals expire. Prescriptions need refilling. The van needs servicing. Wheelchair companies need to be scheduled. There is no single place to see the full picture — and the entire cognitive load of tracking all of it falls on one person, creating constant anxiety and a very real risk of missing something consequential.
