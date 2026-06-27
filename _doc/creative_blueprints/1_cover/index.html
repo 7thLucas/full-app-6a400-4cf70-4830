@@ -1,0 +1,36 @@
+<style>
+.mode-landscape .sl-layout { flex-direction: row; }
+.mode-portrait .sl-layout { flex-direction: column; }
+.mode-landscape .sl-content { width: 55%; }
+.mode-portrait .sl-content { width: 100%; flex: none; padding-bottom: 1.5rem; }
+.mode-landscape .sl-visual { width: 45%; }
+.mode-portrait .sl-visual { flex: 1; min-height: 180px; }
+</style>
+<section class="w-full h-full overflow-auto bg-white">
+  <div class="sl-layout flex h-full">
+    <!-- Content -->
+    <div class="sl-content flex flex-col justify-center px-12 py-10 bg-white">
+      <div class="mb-5">
+        <span class="inline-block text-xs font-bold uppercase tracking-widest px-3 py-1 rounded-full text-white" style="background:#0d9488;">Care Coordination</span>
+      </div>
+      <h1 class="text-5xl font-extrabold leading-tight text-slate-900 mb-5">
+        Every thread of care,<br/>in one calm place.
+      </h1>
+      <p class="text-lg text-slate-600 leading-relaxed max-w-sm">
+        Appointments, providers, prescriptions, referrals, equipment, and transport — organised, proactive, and always on your side.
+      </p>
+      <div class="mt-auto pt-8">
+        <data-attribution />
+      </div>
+    </div>
+    <!-- Visual -->
+    <div class="sl-visual relative overflow-hidden">
+      <img
+        src="https://api.qb-deck.quantumbyte.ai/common/image-generation?prompt=person+in+wheelchair+smiling+calmly+holding+a+tablet+warm+natural+light+modern+home+interior+soft+focus+background+hopeful+peaceful"
+        class="w-full h-full object-cover"
+        alt=""
+      />
+      <div class="absolute inset-0" style="background:linear-gradient(to right,rgba(255,255,255,0.18),transparent);"></div>
+    </div>
+  </div>
+</section>
