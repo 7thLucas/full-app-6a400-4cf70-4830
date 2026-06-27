@@ -27,7 +27,7 @@ A support person (personal care assistant, driver, or carer) who:
 - Needs a task-focused view: not the full care picture, but clear action items and upcoming runs
 
 ## Core Problem
-Managing complex medical and mobility needs spans dozens of providers, companies, and deadlines. Appointments change frequently and without warning. Referrals expire. Prescriptions need refilling. The van needs servicing. Wheelchair companies need to be scheduled. There is no single place to see the full picture — and the entire cognitive load of tracking all of it falls on one person, creating constant anxiety and a very real risk of missing something consequential.
+Managing complex medical and mobility needs spans dozens of providers, companies, and deadlines. Appointments change frequently and without warning. Referrals expire. Prescriptions need refilling. The van and wheelchairs need constant maintenance and repair — not just scheduled servicing but ongoing, unpredictable work. Fuel and maintenance receipts must be captured for tax purposes, but they're easy to lose and hard to organise. There is no single place to see the full picture — and the entire cognitive load of tracking it all falls on one person (or is split awkwardly between two), with a very real risk of missing something consequential or losing deductible expenses.
 
 ## Core Solution
 A unified companion app that holds every thread of care in one place — all providers, appointments, prescriptions, referrals, equipment, and vehicles — and proactively surfaces what needs attention before it becomes urgent. The tone is warm, encouraging, and calm: a companion that helps the user stay ahead, not a clinical task manager.
