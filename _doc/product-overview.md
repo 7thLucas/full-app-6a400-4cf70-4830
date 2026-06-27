@@ -1,7 +1,10 @@
 # Product Overview
 
 ## Working Title
-Care Companion *(provisional — final name not yet confirmed)*
+CareCompass *(provisional — final name not yet confirmed)*
+
+## Platform
+Web app — runs in any modern browser on PC, Mac, and tablet with no installation required. Desktop-first layout (primary users are at a desk or laptop, not on mobile). Fully responsive so it also works on phone if needed.
 
 ## Product Purpose
 A personal care coordination app for people managing complex, multi-domain healthcare and mobility needs. It organises the full ecosystem of medical providers, appointments, referrals, prescriptions, pharmacies, mobility equipment, and accessible transportation into a single supportive hub — proactively keeping the user one step ahead of what needs attention.
