@@ -36,7 +36,8 @@ Managing complex medical and mobility needs spans dozens of providers, companies
 A unified companion app that holds every thread of care in one place — all providers, appointments, prescriptions, referrals, equipment, and vehicles — and proactively surfaces what needs attention before it becomes urgent. The tone is warm, encouraging, and calm: a companion that helps the user stay ahead, not a clinical task manager.
 
 ## Key Feature Areas
-1. **Calendar & Appointment Hub** — A unified visual calendar showing all appointment types (medical, pharmacy, wheelchair, vehicle) colour-coded in one live timeline; week and month views; both personas share the same calendar; alerts fire when any appointment changes, moves, or needs action
+1. **Today Dashboard (Home Screen)** — The first thing the person in care sees when she opens the app: today's appointments in chronological order, live traffic conditions, and estimated travel time to the first appointment of the day; designed so she can immediately see what's ahead and when to be ready — without digging through menus
+2. **Calendar & Appointment Hub** — A unified visual calendar showing all appointment types (medical, pharmacy, wheelchair, vehicle) colour-coded in one live timeline; week and month views; both personas share the same calendar; alerts fire when any appointment changes, moves, or needs action
 2. **Provider & Company Directory** — Organised contacts for all doctors, pharmacies, wheelchair suppliers, and transport/vehicle services
 3. **Referral Tracker** — Track active referrals, their current status, and expiry dates
 4. **Records Transfer Tracker** — Track the movement of medical records, lab results, imaging, and referral letters between providers (doctors, labs, specialists, pharmacies); status per transfer: requested → sent → received → confirmed; alerts fire if records are due before an upcoming appointment but haven't arrived yet
