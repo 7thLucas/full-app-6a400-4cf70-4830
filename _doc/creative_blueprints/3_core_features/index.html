@@ -1,62 +1,68 @@
 <style>
-.mode-landscape .sl-grid { grid-template-columns: repeat(4, 1fr); }
+.mode-landscape .sl-grid { grid-template-columns: repeat(3, 1fr); }
 .mode-portrait .sl-grid { grid-template-columns: repeat(2, 1fr); }
 </style>
 <section class="w-full h-full overflow-auto bg-white">
   <div class="h-full flex flex-col px-12 py-8">
-    <!-- Header -->
-    <div class="flex items-end justify-between mb-5 shrink-0">
-      <div>
-        <span class="text-xs font-bold uppercase tracking-widest text-slate-400">Built for</span>
-        <div class="flex items-center gap-3 mt-1">
-          <span class="inline-flex items-center gap-2 px-4 py-1.5 rounded-full text-sm font-semibold text-white" style="background:#0d9488;">
-            <span class="w-2 h-2 rounded-full bg-white opacity-80"></span> The Care Navigator
-          </span>
-          <h2 class="text-2xl font-bold text-slate-900">Core Features</h2>
-        </div>
+    <!-- Header with dual personas -->
+    <div class="flex items-center justify-between mb-4 shrink-0">
+      <h2 class="text-2xl font-bold text-slate-900">Core Features</h2>
+      <div class="flex items-center gap-2">
+        <span class="text-xs text-slate-400 font-semibold">Built for</span>
+        <span class="inline-flex items-center gap-1.5 px-3 py-1 rounded-full text-xs font-semibold text-white" style="background:#0d9488;">
+          <span class="w-1.5 h-1.5 rounded-full bg-white opacity-80"></span> Person in Care
+        </span>
+        <span class="inline-flex items-center gap-1.5 px-3 py-1 rounded-full text-xs font-semibold text-white" style="background:#f97316;">
+          <span class="w-1.5 h-1.5 rounded-full bg-white opacity-80"></span> Assistant / Driver
+        </span>
       </div>
     </div>
-    <!-- Grid -->
+    <!-- Feature Grid: 3×3 -->
     <div class="sl-grid grid gap-3 flex-1 content-start">
-      <div class="rounded-xl p-4 flex flex-col gap-1.5" style="background:#f0fdfa;border:1px solid #99f6e4;">
-        <span class="text-xl">📅</span>
+      <div class="rounded-xl p-3 flex flex-col gap-1" style="background:#f0fdfa;border:1px solid #99f6e4;">
+        <span class="text-lg">📅</span>
         <span class="font-bold text-slate-800 text-sm">Appointment Hub</span>
         <span class="text-xs text-slate-500 leading-snug">All appointments in one view — alerts for every change</span>
       </div>
-      <div class="rounded-xl p-4 flex flex-col gap-1.5" style="background:#f0fdfa;border:1px solid #99f6e4;">
-        <span class="text-xl">👩‍⚕️</span>
+      <div class="rounded-xl p-3 flex flex-col gap-1" style="background:#f0fdfa;border:1px solid #99f6e4;">
+        <span class="text-lg">👩‍⚕️</span>
         <span class="font-bold text-slate-800 text-sm">Provider Directory</span>
-        <span class="text-xs text-slate-500 leading-snug">Doctors, pharmacies, and specialist companies organised</span>
+        <span class="text-xs text-slate-500 leading-snug">Doctors, pharmacies, wheelchair & transport companies</span>
       </div>
-      <div class="rounded-xl p-4 flex flex-col gap-1.5" style="background:#fff7ed;border:1px solid #fed7aa;">
-        <span class="text-xl">📋</span>
+      <div class="rounded-xl p-3 flex flex-col gap-1" style="background:#fff7ed;border:1px solid #fed7aa;">
+        <span class="text-lg">📋</span>
         <span class="font-bold text-slate-800 text-sm">Referral Tracker</span>
-        <span class="text-xs text-slate-500 leading-snug">Active referrals, status, and expiry alerts</span>
+        <span class="text-xs text-slate-500 leading-snug">Active referrals, status updates, and expiry alerts</span>
       </div>
-      <div class="rounded-xl p-4 flex flex-col gap-1.5" style="background:#fff7ed;border:1px solid #fed7aa;">
-        <span class="text-xl">💊</span>
+      <div class="rounded-xl p-3 flex flex-col gap-1" style="background:#fff7ed;border:1px solid #fed7aa;">
+        <span class="text-lg">💊</span>
         <span class="font-bold text-slate-800 text-sm">Prescription Management</span>
-        <span class="text-xs text-slate-500 leading-snug">Prescriptions, refill schedules, and pharmacy contacts</span>
+        <span class="text-xs text-slate-500 leading-snug">Prescriptions, refill schedules, pharmacy contacts</span>
       </div>
-      <div class="rounded-xl p-4 flex flex-col gap-1.5" style="background:#f0fdfa;border:1px solid #99f6e4;">
-        <span class="text-xl">♿</span>
+      <div class="rounded-xl p-3 flex flex-col gap-1" style="background:#f0fdfa;border:1px solid #99f6e4;">
+        <span class="text-lg">♿</span>
         <span class="font-bold text-slate-800 text-sm">Wheelchair & Equipment</span>
-        <span class="text-xs text-slate-500 leading-snug">Service history, supplier contacts, and warranties</span>
+        <span class="text-xs text-slate-500 leading-snug">Ongoing repair logs, warranties, service appointments</span>
       </div>
-      <div class="rounded-xl p-4 flex flex-col gap-1.5" style="background:#f0fdfa;border:1px solid #99f6e4;">
-        <span class="text-xl">🚐</span>
+      <div class="rounded-xl p-3 flex flex-col gap-1" style="background:#f0fdfa;border:1px solid #99f6e4;">
+        <span class="text-lg">🚐</span>
         <span class="font-bold text-slate-800 text-sm">Van & Transport</span>
-        <span class="text-xs text-slate-500 leading-snug">Vehicle maintenance schedule and service records</span>
+        <span class="text-xs text-slate-500 leading-snug">Maintenance logs, repairs, fuel tracking, service history</span>
       </div>
-      <div class="rounded-xl p-4 flex flex-col gap-1.5" style="background:#fff7ed;border:1px solid #fed7aa;">
-        <span class="text-xl">🔔</span>
+      <div class="rounded-xl p-3 flex flex-col gap-1 text-white" style="background:#0d9488;">
+        <span class="text-lg">🧾</span>
+        <span class="font-bold text-sm">Receipt & Tax Tracking</span>
+        <span class="text-xs opacity-80 leading-snug">Capture fuel & maintenance receipts — categorised for year-end tax deductions</span>
+      </div>
+      <div class="rounded-xl p-3 flex flex-col gap-1" style="background:#fff7ed;border:1px solid #fed7aa;">
+        <span class="text-lg">🔔</span>
         <span class="font-bold text-slate-800 text-sm">Proactive Alerts</span>
         <span class="text-xs text-slate-500 leading-snug">Smart heads-up before things become urgent</span>
       </div>
-      <div class="rounded-xl p-4 flex flex-col gap-1.5" style="background:#fff7ed;border:1px solid #fed7aa;">
-        <span class="text-xl">💛</span>
-        <span class="font-bold text-slate-800 text-sm">Supportive Check-ins</span>
-        <span class="text-xs text-slate-500 leading-snug">Warm, encouraging tone throughout the experience</span>
+      <div class="rounded-xl p-3 flex flex-col gap-1" style="background:#1e293b;">
+        <span class="text-lg">👥</span>
+        <span class="font-bold text-white text-sm">Dual-Persona Views</span>
+        <span class="text-xs text-slate-400 leading-snug">Full care picture for the person; task view for the assistant/driver</span>
       </div>
     </div>
   </div>
