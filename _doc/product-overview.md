@@ -1,10 +1,10 @@
 # Product Overview
 
-## Working Title
-CareCompass *(provisional — final name not yet confirmed)*
+## App Name
+CareCompass *(confirmed)*
 
 ## Platform
-Web app — runs in any modern browser on PC, Mac, and tablet with no installation required. Desktop-first layout (primary users are at a desk or laptop, not on mobile). Fully responsive so it also works on phone if needed.
+Mobile-first web app — optimised for Samsung Android phone (the primary user's main device). Touch-first design: thumb-friendly bottom navigation, large tap targets, one-handed use, key information visible immediately without scrolling. Responsive so it also works on desktop/tablet, but the phone experience is the design authority.
 
 ## Product Purpose
 A personal care coordination app for people managing complex, multi-domain healthcare and mobility needs. It organises the full ecosystem of medical providers, appointments, referrals, prescriptions, pharmacies, mobility equipment, and accessible transportation into a single supportive hub — proactively keeping the user one step ahead of what needs attention.
