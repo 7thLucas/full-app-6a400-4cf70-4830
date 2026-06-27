@@ -44,7 +44,8 @@ A unified companion app that holds every thread of care in one place — all pro
 6. **Wheelchair & Equipment** — Ongoing repair and maintenance logs, warranties, company contacts, and service appointments (maintenance is constant, not just scheduled)
 7. **Van & Transport** — Ongoing repair and maintenance logs, driving logistics, service records, and fuel tracking
 8. **Receipt & Expense Tracking** — Capture fuel and maintenance receipts (photo or manual entry) and categorise them for tax deduction purposes; year-end export for tax reporting
-9. **Proactive Reminders** — Smart, timely alerts before things become urgent — context-aware, not just calendar notifications
+9. **Navigation Integration** — One-tap navigation from any appointment to its location; opens Apple Maps on iOS (iPhone 12 / assistant-driver) and the best available maps app on Android (Samsung / person in care); multi-stop day view lets the driver navigate sequentially through all appointments in a day — critical on days with 3–4 appointments across multiple locations; Apple Maps preferred and used by default on iOS
+10. **Proactive Reminders** — Smart, timely alerts before things become urgent — context-aware, not just calendar notifications
 10. **Dual-Persona Views** — The person in care sees the full picture (all upcoming care, active referrals, equipment health); the assistant/driver sees a task-focused view (today's run, what to pick up, outstanding receipts to submit)
 11. **Supportive UX** — Warm, encouraging language throughout; the app frames progress positively and reduces overwhelm
 
