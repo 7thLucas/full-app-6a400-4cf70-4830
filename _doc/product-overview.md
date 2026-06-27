@@ -38,17 +38,17 @@ A unified companion app that holds every thread of care in one place — all pro
 ## Key Feature Areas
 1. **Today Dashboard (Home Screen)** — The first thing the person in care sees when she opens the app: today's appointments in chronological order, live traffic conditions, and estimated travel time to the first appointment of the day; designed so she can immediately see what's ahead and when to be ready — without digging through menus
 2. **Calendar & Appointment Hub** — A unified visual calendar showing all appointment types (medical, pharmacy, wheelchair, vehicle) colour-coded in one live timeline; week and month views; both personas share the same calendar; alerts fire when any appointment changes, moves, or needs action
-2. **Provider & Company Directory** — Organised contacts for all doctors, pharmacies, wheelchair suppliers, and transport/vehicle services
-3. **Referral Tracker** — Track active referrals, their current status, and expiry dates
-4. **Records Transfer Tracker** — Track the movement of medical records, lab results, imaging, and referral letters between providers (doctors, labs, specialists, pharmacies); status per transfer: requested → sent → received → confirmed; alerts fire if records are due before an upcoming appointment but haven't arrived yet
-5. **Prescription Management** — Manage prescriptions, refill schedules, and linked pharmacy contacts
-6. **Wheelchair & Equipment** — Ongoing repair and maintenance logs, warranties, company contacts, and service appointments (maintenance is constant, not just scheduled)
-7. **Van & Transport** — Ongoing repair and maintenance logs, driving logistics, service records, and fuel tracking
-8. **Receipt & Expense Tracking** — Capture fuel and maintenance receipts (photo or manual entry) and categorise them for tax deduction purposes; year-end export for tax reporting
-9. **Navigation Integration** — One-tap navigation from any appointment to its location; opens Apple Maps on iOS (iPhone 12 / assistant-driver) and the best available maps app on Android (Samsung / person in care); multi-stop day view lets the driver navigate sequentially through all appointments in a day — critical on days with 3–4 appointments across multiple locations; Apple Maps preferred and used by default on iOS
-10. **Proactive Reminders** — Smart, timely alerts before things become urgent — context-aware, not just calendar notifications
-10. **Dual-Persona Views** — The person in care sees the full picture (all upcoming care, active referrals, equipment health); the assistant/driver sees a task-focused view (today's run, what to pick up, outstanding receipts to submit)
-11. **Supportive UX** — Warm, encouraging language throughout; the app frames progress positively and reduces overwhelm
+3. **Provider & Company Directory** — Organised contacts for all doctors, pharmacies, wheelchair suppliers, and transport/vehicle services
+4. **Referral Tracker** — Track active referrals, their current status, and expiry dates
+5. **Records Transfer Tracker** — Track the movement of medical records, lab results, imaging, and referral letters between providers (doctors, labs, specialists, pharmacies); status per transfer: requested → sent → received → confirmed; alerts fire if records are due before an upcoming appointment but haven't arrived yet
+6. **Prescription Management** — Manage prescriptions, refill schedules, and linked pharmacy contacts
+7. **Wheelchair & Equipment** — Ongoing repair and maintenance logs, warranties, company contacts, and service appointments (maintenance is constant, not just scheduled)
+8. **Van & Transport** — Ongoing repair and maintenance logs, driving logistics, service records, and fuel tracking
+9. **Receipt & Expense Tracking** — Capture fuel and maintenance receipts (photo or manual entry) and categorise them for tax deduction purposes; year-end export for tax reporting
+10. **Navigation Integration** — One-tap navigation from any appointment to its location; opens Apple Maps on iOS (iPhone 12 / assistant-driver) and the best available maps app on Android (Samsung / person in care); multi-stop day view lets the driver navigate sequentially through all appointments in a day — critical on days with 3–4 appointments across multiple locations; Apple Maps preferred and used by default on iOS
+11. **Proactive Reminders** — Smart, timely alerts before things become urgent — context-aware, not just calendar notifications
+12. **Dual-Persona Views** — The person in care sees the full picture (all upcoming care, active referrals, equipment health); the assistant/driver sees a task-focused view (today's run, what to pick up, outstanding receipts to submit)
+13. **Supportive UX** — Warm, encouraging language throughout; the app frames progress positively and reduces overwhelm
 
 ## Financial Value Layer
 - Fuel and maintenance costs for an accessible van used for medical transport are typically tax-deductible
