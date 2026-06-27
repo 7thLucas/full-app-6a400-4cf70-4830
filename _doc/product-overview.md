@@ -36,6 +36,7 @@ A unified companion app that holds every thread of care in one place — all pro
 1. **Calendar & Appointment Hub** — A unified visual calendar showing all appointment types (medical, pharmacy, wheelchair, vehicle) colour-coded in one live timeline; week and month views; both personas share the same calendar; alerts fire when any appointment changes, moves, or needs action
 2. **Provider & Company Directory** — Organised contacts for all doctors, pharmacies, wheelchair suppliers, and transport/vehicle services
 3. **Referral Tracker** — Track active referrals, their current status, and expiry dates
+4. **Records Transfer Tracker** — Track the movement of medical records, lab results, imaging, and referral letters between providers (doctors, labs, specialists, pharmacies); status per transfer: requested → sent → received → confirmed; alerts fire if records are due before an upcoming appointment but haven't arrived yet
 4. **Prescription Management** — Manage prescriptions, refill schedules, and linked pharmacy contacts
 5. **Wheelchair & Equipment** — Ongoing repair and maintenance logs, warranties, company contacts, and service appointments (maintenance is constant, not just scheduled)
 6. **Van & Transport** — Ongoing repair and maintenance logs, driving logistics, service records, and fuel tracking
