@@ -37,10 +37,17 @@ A unified companion app that holds every thread of care in one place — all pro
 2. **Provider & Company Directory** — Organised contacts for all doctors, pharmacies, wheelchair suppliers, and transport/vehicle services
 3. **Referral Tracker** — Track active referrals, their current status, and expiry dates
 4. **Prescription Management** — Manage prescriptions, refill schedules, and linked pharmacy contacts
-5. **Wheelchair & Equipment** — Maintenance history, warranties, company contacts, and upcoming service appointments
-6. **Van & Transport** — Vehicle maintenance schedule, driving logistics, and service records
-7. **Proactive Reminders** — Smart, timely alerts before things become urgent — not just calendar notifications but context-aware heads-ups
-8. **Supportive UX** — Warm, encouraging language throughout; the app frames progress positively and reduces overwhelm
+5. **Wheelchair & Equipment** — Ongoing repair and maintenance logs, warranties, company contacts, and service appointments (maintenance is constant, not just scheduled)
+6. **Van & Transport** — Ongoing repair and maintenance logs, driving logistics, service records, and fuel tracking
+7. **Receipt & Expense Tracking** — Capture fuel and maintenance receipts (photo or manual entry) and categorise them for tax deduction purposes; year-end export for tax reporting
+8. **Proactive Reminders** — Smart, timely alerts before things become urgent — context-aware, not just calendar notifications
+9. **Dual-Persona Views** — The person in care sees the full picture (all upcoming care, active referrals, equipment health); the assistant/driver sees a task-focused view (today's run, what to pick up, outstanding receipts to submit)
+10. **Supportive UX** — Warm, encouraging language throughout; the app frames progress positively and reduces overwhelm
+
+## Financial Value Layer
+- Fuel and maintenance costs for an accessible van used for medical transport are typically tax-deductible
+- Receipts lost or never logged = deductions missed; the app captures these at the point of transaction
+- Year-over-year, tracked and organised van/wheelchair expenses can represent significant recoverable tax value
 
 ## Brand Tone
 Warm, supportive, encouraging, calm. This is a life companion for someone navigating a genuinely demanding situation — it should feel like a capable, caring assistant rather than a clinical management tool. Language is affirming and human, never bureaucratic or clinical.
